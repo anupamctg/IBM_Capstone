@@ -1,0 +1,10 @@
+
+Data:-
+	I have decided to use Foursquare data on the locations in Kuala Lumpur as Foursquare is the most trusted, independent location data platform for understanding how people move through the real world.
+With the location data downloaded from Foursquare, I will perform below steps of analysis to reach the targeted result.
+	A.	Generate the list of condominium in Kuala Lumpur
+	B.	Narrow down the number of condominiums within 5000 meters radius of the address provided.
+	C.	Cluster the condominiums with a school within 4000 meters radius.
+	D.	Generate a list of schools from ‘C’ and sort according to the ranking.
+	E.	Repeat ‘C’ and ‘D’ for supermarkets.
+	F.	Combine the result of ‘D’ and ‘E’ to get the list of condominiums that meet the requirements.
