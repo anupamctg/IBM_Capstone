@@ -1,0 +1,10 @@
+
+Background:- 
+	Recently one of my old alumni has been offered a job in Kuala Lumpur. With the decision to move in, he called me and asked for my help to suggest him the best suitable location for him to stay with his family. I tried to understand the what does my friend mean by “the best suitable location”, basically I did a requirement analysis. The outcome was a location
+	i)	Within 5 KM distance of his new office address, he loves to drive.
+	ii)	Within 3-4 KM distance of a top-ranking high school, for his 12 years old kid.
+	iii)	Within 2-3 KM distance of supermarket or reputed grocery shop.
+I asked for 1-week time and decided to apply my data science and machine learning techniques to conduct a through analysis on condominiums available in Kuala Lumpur to find the best options according to my friend’s requirements.
+
+Audience:-
+	Beside my friend, many people can get benefited from the result of this project who basically need to move to a new location and have similar requirements.
